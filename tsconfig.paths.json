@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "isolatedModules": false,
+    "paths": {
+      "_components": ["src/components/*"],
+      "_pages": ["src/pages/*"],
+    }
+  }
+}
