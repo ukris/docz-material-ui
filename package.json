@@ -60,7 +60,7 @@
     "gatsby-plugin-typescript": "^2.4.0",
     "gatsby-theme-docz": "^2.3.1",
     "localstorage-polyfill": "^1.0.1",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "prettier": "1.18.2",
     "react-app-rewired": "2.1.5",
     "react-docgen-typescript": "1.16.4",
